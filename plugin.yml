@@ -1,0 +1,9 @@
+main: me.async.DR.Main
+name: ChestFinder
+author: CookieAssassin
+version: 0.1
+description: >
+             Find chests using the tool.
+commands:
+    chestfinder:
+        permission: chestfinder.main
